@@ -1,3 +1,9 @@
+Respective thanks to:
+* https://github.com/axios/axios
+* https://github.com/SamSamskies/libberfy
+* http://api.adviceslip.com/
+* https://pixabay.com/en/squirrel-animal-cute-rodent-fluffy-41255/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
